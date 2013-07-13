@@ -1,3 +1,13 @@
-src
-lib
-var
+# buildout dirs and files
+/src
+/lib
+/.installed.cfg
+/.mr.developer.cfg
+/bin/
+/develop-eggs/
+/include/
+/local/
+/parts/
+
+# var files
+/var
